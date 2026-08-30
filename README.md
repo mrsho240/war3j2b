@@ -1,4 +1,4 @@
-# 🔄 War3MapScriptRepacker
+# War3MapScriptRepacker
 
 A small Python utility for **extracting, modifying, and repacking JASS scripts** from Warcraft III map binary data.
 
@@ -6,7 +6,7 @@ This project was created as an older **Reverse Engineering experiment** for stud
 
 > **Note:** This is an experimental project and is mainly intended for learning and research.
 
-## ✨ Features
+## Features
 
 * Compress a JASS script into a binary file using Zlib
 * Detect Zlib-compressed blocks inside `war3map.bin`
@@ -18,7 +18,7 @@ This project was created as an older **Reverse Engineering experiment** for stud
 * Replace compressed data inside the original binary
 * Preserve unrelated data in the original binary
 
-## 🔄 Workflow
+## Workflow
 
 The general workflow is:
 
